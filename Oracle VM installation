@@ -9,6 +9,7 @@ Finishing up - Install add-on Utils.
 Basic CLI commands
   ls - list files in curent dir
   touch "file name" - creates and empty file with name "file name"
+  mkdir "dir name" - create dir with name "dir name"
   nano "file name" - open file "file name" in nano text editor - ctrl-o, ctrl-x
   cat "file name" - displays the contents of the "file name" file to the console
   man man
