@@ -1,0 +1,28 @@
+Open up https://www.oracle.com and download latest version of Virtual Box.
+
+Get up to date on Virtual Box using the step-by-step lectures here: https://www.youtube.com/user/OracleLearning
+
+Installing ubuntu
+
+Finishing up - Install add-on Utils.
+
+Basic CLI commands
+  ls - list files in curent dir
+  touch "file name" - creates and empty file with name "file name"
+  nano "file name" - open file "file name" in nano text editor - ctrl-o, ctrl-x
+  cat "file name" - displays the contents of the "file name" file to the console
+  man man
+  man "command" - command manual for other commands ex: man ls
+  cd "path"- change dir - ex: cd Downloads, cd .., cd .
+  pwd - present working dir ex: pwd - returns /home/username
+  cp "point1" "point2" - copy file from point1 to point2 ex: cp ../test . || cp test /home/melania/public/test
+  sudo - super user do - sudo apt update - run the apt update command as super user
+  
+  
+Install Git
+
+  protonmail - new email on protonmail
+  github - new account on github
+  install git on cli - apt install git
+
+Basic Git commands
